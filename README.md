@@ -19,7 +19,10 @@
 <h2>𝒞𝑜𝓃𝓉𝒶𝒸𝓉</h2>
 
 <div>
-  <a href="https://instagram.com/bagalolka" target="_blank">
+  <a href="https://t.me/Baga1o1ka">
+  <img src="https://img.shields.io/badge/Telegram?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://instagram.com/baga.lolka" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href="https://discord.gg/BAGA#3621" target="blank">
