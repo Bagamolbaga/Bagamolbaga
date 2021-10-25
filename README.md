@@ -1,4 +1,4 @@
-![banner (1)](https://user-images.githubusercontent.com/40855088/138785884-2dd80a95-9a3d-4f24-835f-6175dbba5f20.png)
+![animeTyan](https://user-images.githubusercontent.com/40855088/138786154-9109e5ef-d9eb-4005-bf46-a57868b1d98e.gif)
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, React, Redux, NodeJS, Express**
