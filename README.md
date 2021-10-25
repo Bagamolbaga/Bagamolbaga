@@ -18,9 +18,12 @@
 
 <h2>𝒞𝑜𝓃𝓉𝒶𝒸𝓉</h2>
 
-<div>
+<div>Twitch
   <a href="https://t.me/Baga1o1ka">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=#26A5E4" target="_blank">
+  </a>
+  <a href="https://www.twitch.tv/bagalolka">
+  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=#26A5E4" target="_blank">
   </a>
   <a href="https://instagram.com/baga.lolka" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
