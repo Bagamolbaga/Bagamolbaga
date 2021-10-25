@@ -1,4 +1,4 @@
-![animeTyan](https://user-images.githubusercontent.com/40855088/138786154-9109e5ef-d9eb-4005-bf46-a57868b1d98e.gif)
+<iframe src="https://giphy.com/embed/11tmhZRjavMMIE" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animal-kawaii-11tmhZRjavMMIE">via GIPHY</a></p>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, React, Redux, NodeJS, Express**
