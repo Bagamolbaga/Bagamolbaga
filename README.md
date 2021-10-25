@@ -13,5 +13,5 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bagamolbaga&show_icons=true&bg_color=22272e&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bagamolbaga&layout=compact&langs_count=7&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bagamolbaga&bg_color=22272e&layout=compact&langs_count=7&theme=tokyonight">
 </div>
