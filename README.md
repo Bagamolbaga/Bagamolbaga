@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/11tmhZRjavMMIE" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animal-kawaii-11tmhZRjavMMIE">via GIPHY</a></p>
+![banner (1)](https://user-images.githubusercontent.com/40855088/138785884-2dd80a95-9a3d-4f24-835f-6175dbba5f20.png)
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, React, Redux, NodeJS, Express**
