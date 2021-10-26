@@ -21,7 +21,7 @@
 
 <div>
   <a href="https://t.me/Baga1o1ka">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=26A5E4&logoWidth=50" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=26A5E4" target="_blank">
   </a>
   <a href="https://www.twitch.tv/bagalolka">
   <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
