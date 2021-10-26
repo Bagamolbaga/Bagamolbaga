@@ -26,6 +26,9 @@
   <a href="https://www.twitch.tv/bagalolka">
   <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
   </a>
+  <a href="https://steamcommunity.com/id/bagalalka/">
+  <img src="https://img.shields.io/badge/Steam-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
+  </a>
   <a href="https://vk.com/bagalolka">
   <img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white" target="_blank">
   </a>
