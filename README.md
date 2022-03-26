@@ -36,10 +36,10 @@
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href="https://discord.gg/BAGA#3621" target="blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="JohnEmerson1406#0587">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   <a href="alexey.bagishev.dev@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=alexey.bagishev.dev@gmail.com&logoColor=white" target="_blank" alt="alexey.bagishev.dev@gmail.com">
   </a>
 </div>
 
