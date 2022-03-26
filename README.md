@@ -38,7 +38,7 @@
   <a href="https://discord.gg/BAGA#3621" target="blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="JohnEmerson1406#0587">
   </a>
-  <a href="jhffigvg54@gmail.com">
+  <a href="alexey.bagishev.dev@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
